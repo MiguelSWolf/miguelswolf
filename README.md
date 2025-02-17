@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Miguel Wolf</h1>
+<h2 align="center">Software Developer</h2>
+<h3 align="center">Passionate about building scalable applications and improving development processes.</h3>
 
-<!--
-**MiguelSWolf/miguelswolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+- 💼 Currently working at **Axo Group** on the **uScore** project, enhancing financial transparency for users.
+- 🏗️ Experience in full-stack development, system architecture, and API integrations.
+- 💡 Strong background in **Laravel, Vue.js, PHP and JavaScript**.
+- 🚀 Interested in optimizing workflows, performance improvements, and clean architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Your%20Name-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YOUR_PROFILE/)](https://www.linkedin.com/in/miguel-wolf/) 
+
+<br>
+
+<p align="center">
+Technologies I work with ⌨️
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="70" height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="70" height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="70" height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original-wordmark.svg" alt="vitest" width="70" height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="70" height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="aws" width="70" height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="70" height="70"/>
+
+<br>
+<br>
+</p>
+
+<p align="center">
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=miguelSWolf&show_icons=true&theme=dracula" alt="Your stats" height=180 />
+  </span>
+</p>
