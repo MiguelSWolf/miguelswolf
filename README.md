@@ -35,9 +35,6 @@ Technologies I work with ⌨️
 <br>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=miguelSWolf" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelSWolf&layout=compact&langs_count=8&card_width=320" />
-</a>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=miguelSWolf" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelSWolf&layout=compact&langs_count=8&card_width=320" />
+<img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelSWolf&theme=dracula&hide_border=true)" />
