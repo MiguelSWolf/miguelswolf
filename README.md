@@ -35,6 +35,13 @@ Technologies I work with ⌨️
 <br>
 </p>
 
+<p align="center">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=miguelSWolf" />
+</p>
+
+<p align="center">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelSWolf&layout=compact&langs_count=8&card_width=320" />
+</p>
+<p align="center">
 <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelSWolf&theme=dracula&hide_border=true)" />
+</p>
