@@ -11,7 +11,7 @@
 
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Your%20Name-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YOUR_PROFILE/)](https://www.linkedin.com/in/miguel-wolf/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Miguel%20Wolf-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-wolf/)](https://www.linkedin.com/in/miguel-wolf/) 
 
 <br>
 
